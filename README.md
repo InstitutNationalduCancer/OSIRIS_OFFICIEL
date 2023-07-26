@@ -22,5 +22,5 @@ Repositorio de documentación y versiones oficiales del proyecto OSIRIS OpenSour
 Para más información, póngase en contacto con el +33 1 41 10 72 11 o escríbanos a la siguiente dirección de correo electrónico osiris@institutcancer.fr
 
 <p align="center"> 
-<img src="https://github.com/InstitutNationalduCancer/OSIRIS/blob/main/Images/INCa_Logo.png" alt="alt text" width="240" height="90">
+<img src="https://github.com/InstitutNationalduCancer/OSIRIS_OFFICIEL/blob/main/Images/INCa_Logo.png" alt="alt text" width="240" height="90">
 </p>
