@@ -5,7 +5,7 @@
 </p>
 
 
-Repository de la documentation et des versions officielles du projet OpenSource OSIRIS : Proposition d'un modèle Conceptuel de Données pour le partage de données standardisées et interopérables
+Dépôt de la documentation et des versions officielles du projet OpenSource OSIRIS : Proposition d'un modèle Conceptuel de Données pour le partage de données standardisées et interopérables
 
 Pour plus d'informations, merci de contacter le +33 1 41 10 72 11 ou d'écrire à l'adresse osiris@institutcancer.fr
 
