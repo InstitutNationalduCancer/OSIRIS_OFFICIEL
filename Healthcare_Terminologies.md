@@ -11,8 +11,24 @@ Le catalogue des terminologies de santé est consultable sur le serveur multi-te
 
 Le modèle logique de données MPD_OSIRIS_2021 utilise les terminologies suivantes :
 
---------------------------------------------------------------------------------------------------------------------------
+| Sets | Terminologies | Version |
+| --- | --- | --- | 
+| Clinic | HL7 | 3.0 |
+| Clinic  | UMLS  |  |
+| Clinic  | CIM | 10  |
+| Clinic   | CIM-O | 3 |
+| Clinic   | TNM |   |
+| Clinic   | ATC |   |
+| Clinic   | CCAM |   |
+| Clinic | MedRA | 12 |
+| Clinic  | CTCAE  | 5 |
+| Genomics | UMLS |   |
+| Genomics | LOINC |   |
+| Genomics | HUGO |   |
+| Genomics | HGVS |   |
+| Genomics | PFAM |   |
 
+------------
 
 
 <p align="center"> 
