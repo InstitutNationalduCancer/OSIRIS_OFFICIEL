@@ -9,24 +9,21 @@ Le catalogue des terminologies de santé est consultable sur le serveur multi-te
 
 --------------------------------------------------------------------------------------------------------------------------
 
-Le modèle logique de données MPD_OSIRIS_2021 utilise les terminologies suivantes :
+Les terminologies actuellement approuvées par l'ANS et utilisées dans le cadre du modèle de données OSIRIS sont les suivantes :
 
-| Sets | Terminologies | Version | Description |
-| --- | --- | --- | --- |
-| Clinic | HL7 | 3.0 | |
-| Clinic  | UMLS  |  | |
-| Clinic  | CIM | 10  | |
-| Clinic   | CIM-O | 3 | |
-| Clinic   | TNM |   | |
-| Clinic   | ATC |   | |
-| Clinic   | CCAM |   | |
-| Clinic | MedRA | 12 | |
-| Clinic  | CTCAE  | 5 | |
-| Genomics | UMLS |   | |
-| Genomics | LOINC |   | |
-| Genomics | HUGO |   | |
-| Genomics | HGVS |   | |
-| Genomics | PFAM |   | |
+| Terminologie | Version | Licence | Personne morale | Statut | Thème | Module OSIRIS concerné |
+| --- | --- | --- | --- | --- | --- | --- | 
+| ATC | 2023-01 | CC BY ND 3.0 IGO | WHOCC | ZIP | Médical | OSIRIS_Clinics |
+| CCAM | v73 | LOv2 | ANS | ZIP | Médical | OSIRIS_Clinics |
+| CIM10 | 2023-05-04 | CC BY NC ND 3.0 IGO | ATIH | ZIP | Médical | OSIRIS_Clinics |
+| FINESS | 2023-04 | LOv2 | DREES | WEB URL : https://finess.esante.gouv.fr/fininter/jsp/nomenclatures.do | Médico-économique | OSIRIS_Clinics |
+| HL7 Vocabulary Domains | 2.1 | HL7 | HL7 | WEB URL : http://www.hl7.org/implement/standards/product_brief.cfm?product_id=496 | Médico-économique | OSIRIS_Clinics |
+| LOINC Bio FR | 2.15 | LOv2 | ANS | WEB URL : https://bioloinc.fr/bioloinc/KB/index  | Biologie | OSIRIS_Clinics |
+| MedRA | 24.1 | MedRA | MedRA | WEB URL : https://www.meddra.org/how-to-use/support-documentation/french | Médical | OSIRIS_Clinics |
+| NCIt | 22.12d 1.0 | CC BY 4.0 | D2IM - CHU Rouen Normandie, National Cancer Institute | ZIP | - | OSIRIS_Clinics |
+| SNOMED CT - Edition internationale | Décembre2023 V1.0 | Licence d'affiliation SNOMED CT | ZIP |  |  |  |
+| TNM | v8 | UICC | UICC | WEB URL :  |  |  |
+| UCUM | 2.1 | UCUM | Regenstrief Institute | WEB URL : https://ucum.org/ | Medical | OSIRIS_Clinics |
 
 ------------
 
