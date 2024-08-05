@@ -11,7 +11,7 @@ Le catalogue des terminologies de santé est consultable sur le serveur multi-te
 
 Les terminologies actuellement approuvées par l'ANS et utilisées dans le cadre du modèle de données OSIRIS sont les suivantes :
 
-| Terminologie | Version | Licence | Personne morale | Statut | Thème | Module OSIRIS concerné |
+| Terminology | Version | Licence | Responsible | Statut | Topic | Related OSIRIS part |
 | --- | --- | --- | --- | --- | --- | --- | 
 | ATC | 2023-01 | CC BY ND 3.0 IGO | WHOCC | ZIP | Médical | OSIRIS_Clinics |
 | CCAM | v73 | LOv2 | ANS | ZIP | Médical | OSIRIS_Clinics |
